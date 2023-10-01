@@ -3,88 +3,39 @@
 
 
 	<url>		     
-	   <loc>https://goliat.neocities.org/search.html</loc>
-		<lastmod>2020-11-23</lastmod>
+	   <loc>https://softwaretro.github.io/index.html</loc>
+		<lastmod>2023-10-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>		     
+	   <loc>https://softwaretro.github.io/msdos.html</loc>
+		<lastmod>2023-10-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>		     
-	   <loc>https://goliat.neocities.org/search/catalogos/index.html</loc>
-		<lastmod>2020-11-23</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>		     
-	   <loc>https://goliat.neocities.org/search/google/index.html</loc>
-		<lastmod>2020-11-23</lastmod>
+	   <loc>https://softwaretro.github.io/applesoft.html</loc>
+		<lastmod>2023-10-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 
 	<url>
-		<loc>https://goliat.neocities.org/home.html</loc>
-		<lastmod>2020-11-23</lastmod>
+		<loc>https://softwaretro.github.io/windows.html</loc>
+		<lastmod>2023-10-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1</priority>
 	</url>
 
 
        	<url>
-		<loc>https://goliat.neocities.org/site/youtobe/index.html</loc>
-		<lastmod>2020-11-23</lastmod>
+		<loc>https://softwaretro.github.io/apps.html</loc>
+		<lastmod>2023-10-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1</priority>
 	</url>
 	
-	 	<url>
-		<loc>https://goliat.neocities.org/site/youtobe/clon.html</loc>
-		<lastmod>2020-11-23</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>1</priority>
-	</url>
-
-	 <url>		     
-   <loc>https://goliat.neocities.org/wiki/index.html</loc>
-		<lastmod>2021-06-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-  <url>		     
-   <loc>https://goliat.neocities.org/social/index.html</loc>
-		<lastmod>2021-06-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-<url>		     
-   <loc>https://goliat.neocities.org/site/lycos/index.html</loc>
-		<lastmod>2021-06-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-<url>		     
-   <loc>https://goliat.neocities.org/site/microsoft/index.html</loc>
-		<lastmod>2021-06-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-<url>		     
-   <loc>https://goliat.neocities.org/blog//index.html</loc>
-		<lastmod>2023-05-23</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>		     
-   <loc>https://goliat.neocities.org/search/altavista/index.html</loc>
-		<lastmod>2023-05-25</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>		     
-   <loc>https://goliat.neocities.org/search/yahoo/old97/espanol.html</loc>
-		<lastmod>2023-05-25</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-
+	 	
   
 </urlset>
